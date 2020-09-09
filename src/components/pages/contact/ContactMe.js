@@ -6,6 +6,7 @@ export default class ContactMe extends Component {
         return (
             <div className="contactme-form">
                 <form name="contact" method="POST" data-netlify="true">
+                <input type='hidden' name='form-netlify' value='contact' />
                 <p>
                     <label>Your Name: <input type="text" name="name" /></label>   
                 </p>
