@@ -10,7 +10,7 @@ export default class HomePage extends Component {
     render() {
         return (
             <div className='multiple_image'>
-            <marquee loop="1" direction="down" scrollamount="35" behavior="slide"><img className="background_image" src={BackImage} alt=""/></marquee>
+            <img className="background_image" src={BackImage} alt=""/>
                 <div className="exp-comp">
                     <div className="exp-headerEducation">------ My Education Background ------</div>
                     <MyEducation />
