@@ -1,0 +1,39 @@
+.multiple_image{
+    width:100%;
+}
+.background_image{
+    width: 100%;
+}
+
+.my-experience{
+    display: inline-block;
+}
+
+.exp-header{
+    text-align: center;
+    color:black;
+    font-size: 40px;
+    font-family: cursive;
+    padding-bottom: 50px;
+    padding-top:50px;
+}
+
+.exp-headerEducation{
+    color:black;
+    margin-top:-6px;
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive;
+    padding-top:50px;
+}
+
+.exp-comp{
+    background-image: linear-gradient(white, rgb(157, 238, 157),rgb(208, 216, 185));
+}
+.my-image{
+    height: 200px;
+    border-radius: 300px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}

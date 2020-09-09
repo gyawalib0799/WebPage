@@ -1,0 +1,33 @@
+.contactme-form{
+    text-align: center;
+    margin-top: 60px;
+}
+
+input[type=text]{
+    border-radius: 5px;
+    height:20px;
+    width:200px;
+}
+input[type=email]{
+    border-radius: 5px;
+    height:20px;
+    width:200px;
+}
+textarea{
+    border-radius: 10px;
+    height:80px;
+    margin-bottom:-35px;
+    width:300px;
+}
+button[type=submit]{
+    border-radius: 5px;
+    height: 25px;
+    margin-top:25px;
+}
+.last-row{
+    padding-bottom: 20px;
+    margin-bottom:0;
+}
+.form-recaptcha{
+    margin-top:50px;
+}
