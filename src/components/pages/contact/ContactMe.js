@@ -16,7 +16,7 @@ export default class ContactMe extends Component {
                 <p>
                     <label>Message: <textarea name="message"></textarea></label>
                 </p>
-                <div className="form-recaptcha" data-netlify-recaptcha="true"></div>
+                <div data-netlify-recaptcha="true"></div>
                 <p className="last-row">
                 <button type="submit">Submit</button>
                 </p>
