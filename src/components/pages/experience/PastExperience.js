@@ -1,7 +1,7 @@
 const listOfData=[
     {
         title: 'Software Engineer(Front-End)',
-        timeFrame: 'March 2019 - Aug 2020',
+        timeFrame: 'March 2019 - Dec 2020',
         company: 'Northern Trust',
         des: `I worked on designing single page application using front-end technologies.
         Me and my team helped to change the legacy built application to react 
