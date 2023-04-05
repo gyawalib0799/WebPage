@@ -1,11 +1,11 @@
 const listOfData=[
     {
-        title: 'Software Engineer(Front-End)',
+        title: 'Software Engineer',
         timeFrame: 'March 2019 - Present',
         company: 'Northern Trust',
-        des: `I worked on designing single page application using front-end technologies.
-        Me and my team helped to change the legacy built application to react 
-        based application giving totally new features and design. I also got exposed to backend and databse technology.`
+        des: `I worked on designing single page application technologies like React, Redux, Node, MongoDB.
+        Me and my team helped to change the legacy built application to react,  redux
+        based application giving totally new features and design.`
     },
     {
         title: 'Plant Automation Engineering Specialist',
