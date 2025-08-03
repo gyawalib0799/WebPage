@@ -3,7 +3,7 @@ const listOfData=[
         title: 'Software Engineer',
         timeFrame: 'March 2019 - Present',
         company: 'Northern Trust',
-        des: `I worked on designing single page application technologies like React, Redux, Node, MongoDB.
+        des: `I worked on designing single page application using technologies like javascript, React, Redux, Node, Java, SpringBoot, MySQL, MongoDB.
         Me and my team helped to change the legacy built application to react,  redux
         based application giving totally new features and design.`
     },
