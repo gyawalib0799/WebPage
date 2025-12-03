@@ -11,7 +11,7 @@ const listOfData=[
         title: 'Software Developer Trainee',
         timeFrame: 'Aug 2020 - Oct 2020',
         company: 'IT America Inc',
-        des: `I worked shortlh on developing app with use of React and Redux.
+        des: `I worked shortly on developing app with use of React and Redux.
         Worked with junior developer to transfer knowledge.`
     },
     {
