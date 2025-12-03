@@ -1,11 +1,18 @@
 const listOfData=[
     {
         title: 'Software Engineer',
-        timeFrame: 'March 2019 - Present',
+        timeFrame: 'March 2019 - Aug 2020, Nov 2021 - Present',
         company: 'Northern Trust',
         des: `I worked on designing single page application using technologies like javascript, React, Redux, Node, Java, SpringBoot, MySQL, MongoDB.
-        Me and my team helped to change the legacy built application to react,  redux
+        Me and my team helped to change the legacy built application to react, redux
         based application giving totally new features and design.`
+    },
+    {
+        title: 'Software Developer Trainee',
+        timeFrame: 'Aug 2020 - Oct 2020',
+        company: 'IT America Inc',
+        des: `I worked shortlh on developing app with use of React and Redux.
+        Worked with junior developer to transfer knowledge.`
     },
     {
         title: 'Plant Automation Engineering Specialist',
