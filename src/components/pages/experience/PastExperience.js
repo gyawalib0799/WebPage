@@ -8,6 +8,13 @@ const listOfData=[
         based application giving totally new features and design.`
     },
     {
+        title: 'Automation Technician',
+        timeFrame: 'Jan 2021 - June 2021',
+        company: 'Flex',
+        des: `I worked on manufacturing high volume medical device where I was responsible to maintain and troubleshoot
+        complex automated and robotic systems`
+    },
+    {
         title: 'Software Developer Trainee',
         timeFrame: 'Aug 2020 - Oct 2020',
         company: 'IT America Inc',
