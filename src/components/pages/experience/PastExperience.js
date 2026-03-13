@@ -1,6 +1,6 @@
 const listOfData=[
     {
-        title: 'Software Engineer',
+        title: 'Sr./ Software Engineer',
         timeFrame: 'March 2019 - Aug 2020, Nov 2021 - Present',
         company: 'Northern Trust',
         des: `I worked on designing single page application using technologies like javascript, React, Redux, Node, Java, SpringBoot, MySQL, MongoDB.
@@ -8,22 +8,22 @@ const listOfData=[
         based application giving totally new features and design.`
     },
     {
-        title: 'Automation Technician',
-        timeFrame: 'Jan 2021 - June 2021',
+        title: 'Automation Engineer',
+        timeFrame: 'Jan 2021 - Nov 2021',
         company: 'Flex',
         des: `I worked on manufacturing high volume medical device where I was responsible to maintain and troubleshoot
         complex automated and robotic systems`
     },
     {
-        title: 'Software Developer Trainee',
-        timeFrame: 'Aug 2020 - Oct 2020',
+        title: 'Software Developer',
+        timeFrame: 'Aug 2020 - Jan 2021',
         company: 'IT America Inc',
         des: `I worked shortly on developing app with use of React and Redux.
         Worked with junior developer to transfer knowledge.`
     },
     {
-        title: 'Plant Automation Engineering Specialist',
-        timeFrame: 'March 2018 - March 2019',
+        title: 'Plant Automation Engineer',
+        timeFrame: 'Oct 2018 - March 2019',
         company: 'UPS',
         des: `The world is moving in great pace. It is important to be updated with the technology.
         At UPS I learned how the plant is kept running 24/7. I was involved with plant automation and managing the
