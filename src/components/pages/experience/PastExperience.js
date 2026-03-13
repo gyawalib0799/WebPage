@@ -3,8 +3,8 @@ const listOfData=[
         title: 'Sr./ Software Engineer',
         timeFrame: 'March 2019 - Aug 2020, Nov 2021 - Present',
         company: 'Northern Trust',
-        des: `I worked on designing single page application using technologies like javascript, React, Redux, Node, Java, SpringBoot, MySQL, MongoDB.
-        Me and my team helped to change the legacy built application to react, redux
+        des: `I worked on designing single page application using modern  tech stack.
+        Me and my team helped to change the legacy built application to React
         based application giving totally new features and design.`
     },
     {
@@ -18,7 +18,7 @@ const listOfData=[
         title: 'Software Developer',
         timeFrame: 'Aug 2020 - Jan 2021',
         company: 'IT America Inc',
-        des: `I worked shortly on developing app with use of React and Redux.
+        des: `I worked shortly on developing interprise application.
         Worked with junior developer to transfer knowledge.`
     },
     {
