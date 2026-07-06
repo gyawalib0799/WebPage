@@ -6,7 +6,7 @@ export default class MyEducation extends Component {
         const listOfData=[
             {
                 university: 'University of the Cumberlands',
-                timeFrame: 'Dec 2020 - May 2023',
+                timeFrame: 'Jan 2021 - May 2023',
                 major: 'Master  of Science in Information  Technology',
                 des: `MSIT allowed me to further  enhance my skills and knowledge.
                 I was able to focus on both technical expertise and strategic decision-making process.
