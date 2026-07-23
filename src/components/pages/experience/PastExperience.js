@@ -8,7 +8,7 @@ const listOfData=[
         based application giving totally new features and design.`
     },
     {
-        title: 'Automation Engineer',
+        title: 'Engineer (Software/Automation)',
         timeFrame: 'Jan 2021 - Nov 2021',
         company: 'Flex',
         des: `I worked on manufacturing high volume medical device where I was responsible to maintain and troubleshoot
